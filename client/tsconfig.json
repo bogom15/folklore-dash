@@ -17,6 +17,7 @@
     "noEmit": true,
     "jsx": "react",
     "jsxFactory": "React.createElement",
+    "jsxFragmentFactory": "React.Fragment",
 
     /* Linting */
     "strict": true,
